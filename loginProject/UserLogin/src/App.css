@@ -1,0 +1,33 @@
+.App{
+   margin: 150px;
+}
+.mainDiv{
+    display: flex;
+    justify-content: center;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 450px;
+    border: 1px solid green;
+    padding: 100px;
+    border-radius: 40px;
+}
+.form-label{
+    margin: 10px 0px;
+}
+.form-input{
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.form-button{
+    margin-top: 20px;
+    font-size: 15px;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    color: green;
+}
+
